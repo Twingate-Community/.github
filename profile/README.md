@@ -14,7 +14,7 @@ We focus on:
 
 Whether you’re solving a specific problem or just seeing what’s possible, this is a place for curiosity, exploration, and sharing. Many of these projects are community-driven or started as weekend experiments—so if you see something cool, fork it, remix it, or contribute back!
 
-## Related Repos
+## Related Orgs
 
 - [Twingate](https://github.com/twingate) – official Terraform providers, helm charts, K8s operator, k8s gateway, & github action  
 - [Twingate-Labs](https://github.com/twingate-labs) – experimental tools, bots, and utilities  
